@@ -1,0 +1,154 @@
+# Compiled files
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+*.cache
+*.ilk
+*.lib
+*.ndb
+*.obj
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+
+# Build directories
+**/bin/
+**/obj/
+
+# NuGet
+*.nupkg
+*.snupkg
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Visual Studio specific
+.vscode/
+.vs/
+.vscode/
+.idea/
+.vs/*
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Rider specific
+.idea/
+*.sln.iml
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Mac System files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# macOS directory attributes
+Icon?
+__MACOSX/
+
+# Node.js dependencies (if you're using Node.js in your .NET project)
+node_modules/
+
+# Logs
+*.log
+
+# npm debug log
+npm-debug.log*
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# StyleCop
+StyleCopReport.xml
+
+# IDE settings
+.idea/
+.vscode/
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+.idea/
+.idea_modules/
+
+# Local history for Rider
+.idea/*/shelf/
+.idea/*/history/
+
+# Azure Functions
+local.settings.json
+
+# dotnet publish output
+publish/
+
+# ASP.NET Core Configuration Files
+#appsettings*.json
+
+# Docker
+docker-compose.yml
+Dockerfile
+.dockerignore
+
+# Coverage Reports
+coverage/
+*.coverage
+*.coveragexml
+*.cov
+*.covxml
+
+# SQL Server database files
+*.mdf
+*.ldf
+
+# Office Temp Files
+~$*
+
+# Paket
+.paket/
+paket-files/
+
+# Resharper
+_ReSharper.Caches/
+*.DotSettings.user
+resharper-host/
+
+# Dotnet tool artifacts
+.tools/
+
+# Others
+test_results/
+html_report/
+stylecop.json
+_report
